@@ -1,0 +1,111 @@
+body{
+	background-color: #CCFFFF;
+	font-family: times;
+	padding: 10px;
+	margin: auto;
+	border: 30px solid;
+	border-color: #0099FF;
+	border-style: ridge;
+	}
+h1{
+	text-decoration: underline;
+	color: #3333CC;
+	text-align: center;
+	}
+h3{
+	color: #0066FF;
+	font-size: 16pt;
+	}
+p{
+	font-size: 14pt;
+	color: #0097A7;
+	font-family: georgia;
+    }
+ul{
+	font-style: oblique;
+	border: solid;
+	border-color: blue;
+	width: 300px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: #99FFCC;
+
+	}
+ul:hover{
+	background-color: #00FFFF;
+}
+
+nav{
+	text-align: center;
+}
+a{
+	color: purple;
+	font-weight: bold;
+	}
+table, th, td{
+	border: 1px solid;
+	text-align: center;
+	padding: 0 auto;
+	}
+#tycat{
+	text-align: center;
+}
+form{
+	text-align: left;
+	color: blue;
+	background-color: #FFFF99;
+	padding: 15px;
+	border-style: solid;
+	width:  300px;
+	margin:  0 auto;
+	}
+form:hover{
+	background-color: #CCFF00;
+	}
+input[type=button]{
+	color:  black;
+	background-color: #CCFF99;
+	position: relative;
+	left: 175px;
+	}
+#t2{
+	font-weight: bold;
+	color: red;
+	font-size: 16pt;
+}
+#t3{
+	color: red;
+}
+#ytable{
+	position: static;
+	text-align: center;
+}
+#yt{
+	width: 25%;
+}
+#visit1{
+	font-size: 8pt;
+	color: #FF6633;
+}
+th, td.key{
+	font-weight: bold;
+	color: Blue;
+}
+span{
+	background-color: yellow;
+}
+
+#pomo{
+	width: 600px;
+}
+#ul1{
+	display: block;
+	overflow: auto;
+	text-align: center;
+}
+#intimg{
+	float: right;
+	display: block;
+	overflow: auto;
+	padding: 30px;
+}
