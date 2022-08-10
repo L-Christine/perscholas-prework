@@ -1,8 +1,8 @@
 body{
 	background-color: #CCFFFF;
 	font-family: times;
-	padding: 10px;
-	margin: auto;
+	padding: 50px;
+	margin: 5px;
 	border: 30px solid;
 	border-color: #0099FF;
 	border-style: ridge;
@@ -99,6 +99,8 @@ span{
 	width: 600px;
 }
 #ul1{
+	position: relative;
+	right: 100px;
 	display: block;
 	overflow: auto;
 	text-align: center;
